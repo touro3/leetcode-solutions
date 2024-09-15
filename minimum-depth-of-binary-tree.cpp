@@ -1,5 +1,5 @@
 // resolved by Lucas Tourinho Mamede
-// complexity O
+// complexity O(n)
 
 #include <bits/stdc++.h>
 
