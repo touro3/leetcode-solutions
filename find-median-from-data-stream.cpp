@@ -1,3 +1,10 @@
+//resolved by Lucas Tourinho Mamede
+//time complexity addNum O(log n)
+//time complexity findMedian O(1)
+//space complexity O(n)
+
+#include <bits/stdc++.h>
+
 class MedianFinder {
 public:
 
